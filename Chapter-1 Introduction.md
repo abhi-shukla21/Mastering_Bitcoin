@@ -29,3 +29,39 @@ and has application in different fields such as elections, lotteries, asset regi
 
 ### Bitcoin uses, users, and their stories
 
+**tl/dr** Bitcoin has many applications retailing, outsourcing and international wire transfers, donation and fundraising and mining. Read the book 🙈
+
+
+
+### Getting Started
+
+A "bitcoin wallet" is the most common UI to the bitcoin system, like browser is for HTTP protocol. "Satoshi Client" or "Bitcoin Core" is the reference implementation of Bitcoin protocol.
+
+#### Choosing a Bitcoin wallet
+
+**Based on platform**: desktop wallet, mobile wallet, web wallet, hardware wallet, paper wallet (cold storage).
+
+**Based on autonomy**: full-node client, light-weight client (simple-payment-verification (SPV) client), third-party API client.
+
+The three most common are desktop full-node client, mobile light-weight wallet and web third-party wallet.
+
+#### Quick start
+
+A wallet is a collection of addresses and the keys that can be used to unlock the fund within.
+
+Only after a transaction a bitcoin address becomes a part of the bitcoin network.
+
+#### Getting your first bitcoin
+
+Unlike other electronic payments, bitcoin transactions are irreversible. There are many ways to acquire BTC. Read the book to know them all.
+
+#### Finding the current price of BTC
+
+The price of BTC is set by markets.
+
+*Bitcoin Average* and *CoinCap* are some websites that provide current rates.
+
+#### Sending and receiving BTCs
+
+Nothing unusual. Read the book 🙂
+
