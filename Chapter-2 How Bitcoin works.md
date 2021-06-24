@@ -4,5 +4,5 @@
 
 ##### Bitcoin Overview
 
-![image-20210624133629151](C:\Users\Abhishek\Mastering_Bitcoin\img\image-20210624133629151.png)
+![image-20210624133629151](https://github.com/abhi-shukla21/Mastering_Bitcoin/blob/master/img/image-20210624133629151.png)
 
